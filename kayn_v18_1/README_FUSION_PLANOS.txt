@@ -1,1 +1,0 @@
-KAYN v12.5 Fusion Planos: conserva el plano rápido clásico con sus funciones buenas y lo fusiona visualmente con Editor Módulos PRO y Vista 3D Unificada. Despiece permanece separado.

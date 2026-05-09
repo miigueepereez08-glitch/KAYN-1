@@ -1,1 +1,0 @@
-KAYN ANDAMIOS PRO v11.3 - Interfaz PRO. No cambia cálculos ni detalles de montaje. Sube todos los archivos descomprimidos a GitHub reemplazando los anteriores.

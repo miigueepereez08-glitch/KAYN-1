@@ -1,1 +1,0 @@
-KAYN v11.9 reorganiza Planos: el Editor Módulos PRO queda como entrada principal y la Vista 3D + Despiece pasa a estar dentro del editor.
